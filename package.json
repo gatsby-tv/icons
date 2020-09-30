@@ -1,0 +1,26 @@
+{
+  "name": "@gatsby-tv/icons",
+  "description": "Gatsby shared React icons.",
+  "version": "0.3.3",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsby-tv/icons.git"
+  },
+  "scripts": {
+    "compile": "svgr -d src/components icons",
+    "build": "rm -rf dist && tsc -p . && echo \"Finished building the module, ready to publish.\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@svgr/cli": "^5.4.0",
+    "@types/react": "^16.9.49",
+    "typescript": "^4.0.3"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
