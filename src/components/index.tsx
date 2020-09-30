@@ -1,3 +1,5 @@
+export { default as Cancel } from './Cancel'
+export { default as CircleCancel } from './CircleCancel'
 export { default as Compress } from './Compress'
 export { default as Donate } from './Donate'
 export { default as Expand } from './Expand'
