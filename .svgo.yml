@@ -5,7 +5,7 @@ plugins:
   - addClassesToSVGElement: false
   - cleanupAttrs: true
   - cleanupEnableBackground: true
-  - cleanupIDs: true
+  - cleanupIDs: false
   - cleanupListOfValues: true
   - cleanupNumericValues:
       floatPrecision: 2
@@ -19,6 +19,7 @@ plugins:
   - minifyStyles: true
   - moveElemsAttrsToGroup: true
   - moveGroupAttrsToElems: true
+  - prefixIds: false
   - removeAttrs: true
   - removeComments: true
   - removeDesc: true

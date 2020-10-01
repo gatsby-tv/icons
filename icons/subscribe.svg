@@ -7,150 +7,44 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   focusable="false"
-   role="img"
-   aria-hidden="true"
-   sodipodi:docname="subscribe.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="gz-svg-subscribe"
-   version="1.1"
-   viewBox="0 0 540 540"
+   width="540"
    height="540"
-   width="540">
+   viewBox="0 0 540 540"
+   version="1.1"
+   id="gz-svg-subscribe"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="subscribe.svg"
+   aria-hidden="true"
+   role="img"
+   focusable="false">
   <defs
-     id="defs1289">
-    <rect
-       id="rect4749"
-       height="4.1547174"
-       width="21.6464"
-       y="132.53107"
-       x="17.171118" />
-    <inkscape:path-effect
-       hide_knots="false"
-       only_selected="false"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="true"
-       flexible="false"
-       chamfer_steps="1"
-       radius="0"
-       mode="F"
-       method="auto"
-       unit="px"
-       satellites_param="F,0,0,1,0,0.95675221,0,1 @ F,0,0,1,0,0.95675306,0,1 @ F,0,0,1,0,0.95675263,0,1"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect4039"
-       effect="fillet_chamfer" />
-    <inkscape:path-effect
-       hide_knots="false"
-       only_selected="true"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="true"
-       flexible="false"
-       chamfer_steps="1"
-       radius="0"
-       mode="F"
-       method="auto"
-       unit="px"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.9921875,0,1 @ F,0,0,1,0,0.9921875,0,1"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect4037"
-       effect="fillet_chamfer" />
-    <inkscape:path-effect
-       effect="perspective-envelope"
-       up_left_point="36.259117,0"
-       up_right_point="166.72102,-8.7824661"
-       down_left_point="52.667438,162.31837"
-       down_right_point="166.72102,162.21391"
-       id="path-effect875"
-       is_visible="true"
-       lpeversion="1"
-       deform_type="perspective"
-       horizontal_mirror="false"
-       vertical_mirror="false"
-       overflow_perspective="false" />
-    <inkscape:path-effect
-       effect="mirror_symmetry"
-       start_point="166.72102,1e-06"
-       end_point="166.72102,162.21391"
-       center_point="166.72102,81.106956"
-       id="path-effect873"
-       is_visible="true"
-       lpeversion="1"
-       mode="free"
-       discard_orig_path="false"
-       fuse_paths="false"
-       oposite_fuse="false"
-       split_items="false" />
-    <inkscape:path-effect
-       effect="perspective-envelope"
-       up_left_point="36.259117,0"
-       up_right_point="166.72102,0"
-       down_left_point="36.259117,162.21391"
-       down_right_point="166.72102,162.21391"
-       id="path-effect871"
-       is_visible="true"
-       lpeversion="1"
-       deform_type="envelope_deformation"
-       horizontal_mirror="false"
-       vertical_mirror="false"
-       overflow_perspective="false" />
-    <marker
-       id="ArrowEnd"
-       markerHeight="3"
-       markerUnits="strokeWidth"
-       markerWidth="4"
-       orient="auto"
-       refX="0"
-       refY="5"
-       viewBox="0 0 10 10">
-      <path
-         d="M 0,0 10,5 0,10 Z"
-         id="path1830" />
-    </marker>
-    <marker
-       id="ArrowStart"
-       markerHeight="3"
-       markerUnits="strokeWidth"
-       markerWidth="4"
-       orient="auto"
-       refX="10"
-       refY="5"
-       viewBox="0 0 10 10">
-      <path
-         d="M 10,0 0,5 10,10 Z"
-         id="path1833" />
-    </marker>
-  </defs>
+     id="defs1289" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="24"
-     inkscape:window-x="8"
-     inkscape:window-height="1044"
-     inkscape:window-width="1900"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="gz-svg-subscribe"
-     inkscape:document-units="px"
-     inkscape:cy="348.67657"
-     inkscape:cx="-48.825686"
-     inkscape:zoom="0.49497475"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     units="px"
-     inkscape:snap-page="true"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
      inkscape:object-nodes="false"
-     inkscape:snap-bbox-edge-midpoints="true" />
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     units="px"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-48.825686"
+     inkscape:cy="348.67657"
+     inkscape:document-units="px"
+     inkscape:current-layer="gz-svg-subscribe"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1904"
+     inkscape:window-height="1048"
+     inkscape:window-x="8"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata1292">
     <rdf:RDF>
@@ -164,7 +58,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill: currentcolor"
+     id="subscribe"
      d="M 108.00959,2.24e-6 V 53.980828 H 431.99037 V 2.24e-6 Z M 53.980827,108.00959 v 53.9808 H 486.01913 v -53.9808 z m 0,108.00957 C 24.281371,216.01916 0,240.30054 0,269.99999 v 216.01917 c 0,29.70036 24.281371,53.98083 53.980827,53.98083 H 486.01913 C 515.71858,539.99999 540,515.71952 540,486.01916 V 269.99999 c 0,-29.69945 -24.28142,-53.98083 -53.98087,-53.98083 z m 162.038333,73.6843 161.99041,88.30611 -161.99041,88.0185 z"
-     id="subscribe" />
+     style="fill: currentcolor" />
 </svg>
