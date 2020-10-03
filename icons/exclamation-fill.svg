@@ -7,45 +7,45 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   role="img"
-   aria-hidden="true"
-   focusable="false"
-   sodipodi:docname="exclamation-fill.svg"
-   width="540"
-   height="540"
-   viewBox="0 0 540 540"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="gz-svg-exclamation-fill"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   version="1.1"
+   viewBox="0 0 540 540"
+   height="540"
+   width="540"
+   sodipodi:docname="exclamation-fill.svg"
+   focusable="false"
+   aria-hidden="true"
+   role="img">
   <defs
      id="defs12591" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="24"
-     inkscape:window-x="8"
-     inkscape:window-height="1044"
-     inkscape:window-width="1900"
-     showborder="true"
-     inkscape:bbox-nodes="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-page="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="215.02139"
-     inkscape:cy="279.406"
-     inkscape:document-units="px"
-     inkscape:current-layer="gz-svg-exclamation-fill"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
+     inkscape:object-nodes="false"
      inkscape:snap-bbox="true"
-     inkscape:object-nodes="false" />
+     inkscape:showpageshadow="false"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="gz-svg-exclamation-fill"
+     inkscape:document-units="px"
+     inkscape:cy="364.49244"
+     inkscape:cx="375.96218"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     showborder="true"
+     inkscape:window-width="1904"
+     inkscape:window-height="1048"
+     inkscape:window-x="8"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata12594">
     <rdf:RDF>
@@ -54,12 +54,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     id="exclamation"
+     d="M 270 0 A 270 270 0 0 0 0 270 A 270 270 0 0 0 270 540 A 270 270 0 0 0 540 270 A 270 270 0 0 0 270 0 z M 226.94727 106.08984 L 315.42773 106.08984 L 315.42773 302.78125 L 226.94727 302.78125 L 226.94727 106.08984 z M 226.94727 368.3457 L 315.42773 368.3457 L 315.42773 433.91016 L 226.94727 433.91016 L 226.94727 368.3457 z "
      style="fill:currentcolor"
-     d="M 270 0 A 270 270 0 0 0 0 270 A 270 270 0 0 0 270 540 A 270 270 0 0 0 540 270 A 270 270 0 0 0 270 0 z M 238.40625 106.08984 L 303.96875 106.08984 L 303.96875 302.78125 L 238.40625 302.78125 L 238.40625 106.08984 z M 238.40625 368.3457 L 303.96875 368.3457 L 303.96875 433.91016 L 238.40625 433.91016 L 238.40625 368.3457 z " />
+     id="exclamation" />
 </svg>
