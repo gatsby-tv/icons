@@ -12,7 +12,7 @@ function SvgExclamation() {
       <g id="exclamation" fill="currentcolor">
         <path
           id="exclamation-point"
-          d="M226.946 106.09v196.69h88.483V106.09zm0 262.256v65.564h88.483v-65.564z"
+          d="M233.02 128.593v169.688h76.335V128.593zm0 226.25v56.564h76.335v-56.563z"
         />
         <path
           id="border"

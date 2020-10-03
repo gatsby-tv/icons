@@ -28,8 +28,8 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="gz-svg-exclamation-fill"
      inkscape:document-units="px"
-     inkscape:cy="364.49244"
-     inkscape:cx="375.96218"
+     inkscape:cy="380.46447"
+     inkscape:cx="333.56038"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -59,7 +59,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="M 270 0 A 270 270 0 0 0 0 270 A 270 270 0 0 0 270 540 A 270 270 0 0 0 540 270 A 270 270 0 0 0 270 0 z M 226.94727 106.08984 L 315.42773 106.08984 L 315.42773 302.78125 L 226.94727 302.78125 L 226.94727 106.08984 z M 226.94727 368.3457 L 315.42773 368.3457 L 315.42773 433.91016 L 226.94727 433.91016 L 226.94727 368.3457 z "
+     d="M 270 0 A 270 270 0 0 0 0 270 A 270 270 0 0 0 270 540 A 270 270 0 0 0 540 270 A 270 270 0 0 0 270 0 z M 233.01953 128.59375 L 309.35547 128.59375 L 309.35547 298.28125 L 233.01953 298.28125 L 233.01953 128.59375 z M 233.01953 354.84375 L 309.35547 354.84375 L 309.35547 411.40625 L 233.01953 411.40625 L 233.01953 354.84375 z "
      style="fill:currentcolor"
-     id="exclamation" />
+     id="exclamation-fill" />
 </svg>
