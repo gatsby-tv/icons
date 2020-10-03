@@ -3,7 +3,7 @@ import * as React from "react";
 function SvgExclamationFill() {
   return (
     <svg
-      id="gz-svg-exclamation"
+      id="gz-svg-exclamation-fill"
       aria-hidden="true"
       viewBox="0 0 540 540"
       width="1em"
