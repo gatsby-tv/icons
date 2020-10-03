@@ -10,12 +10,12 @@
    role="img"
    aria-hidden="true"
    focusable="false"
-   sodipodi:docname="error.svg"
+   sodipodi:docname="exclamation.svg"
    width="540"
    height="540"
    viewBox="0 0 540 540"
    version="1.1"
-   id="gz-svg-error"
+   id="gz-svg-exclamation"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs12591" />
@@ -23,8 +23,8 @@
      inkscape:window-maximized="0"
      inkscape:window-y="24"
      inkscape:window-x="8"
-     inkscape:window-height="1048"
-     inkscape:window-width="1904"
+     inkscape:window-height="1044"
+     inkscape:window-width="1900"
      showborder="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
@@ -39,7 +39,7 @@
      inkscape:cx="293.06618"
      inkscape:cy="307.63505"
      inkscape:document-units="px"
-     inkscape:current-layer="gz-svg-error"
+     inkscape:current-layer="gz-svg-exclamation"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,11 +62,11 @@
      id="error">
     <path
        id="exclamation-point"
-       style="fill:currentcolor"
-       d="M 238.40625 106.08984 L 238.40625 302.78125 L 303.96875 302.78125 L 303.96875 106.08984 L 238.40625 106.08984 z M 238.40625 368.3457 L 238.40625 433.91016 L 303.96875 433.91016 L 303.96875 368.3457 L 238.40625 368.3457 z " />
+       d="M 238.40625 106.08984 L 238.40625 302.78125 L 303.96875 302.78125 L 303.96875 106.08984 L 238.40625 106.08984 z M 238.40625 368.3457 L 238.40625 433.91016 L 303.96875 433.91016 L 303.96875 368.3457 L 238.40625 368.3457 z "
+       style="fill:currentcolor" />
     <path
-       style="fill:currentcolor"
        d="M 270.01562 0.03125 C 121.26307 0.03124876 0.029294396 121.25727 0.029296875 270.00586 C 0.029296875 418.75444 121.26307 539.98242 270.01562 539.98242 C 418.76818 539.98243 540 418.75445 540 270.00586 C 540 121.25727 418.76819 0.031243802 270.01562 0.03125 z M 270.01562 60.03125 C 386.34306 60.031245 480 153.68496 480 270.00586 C 480 386.32675 386.34306 479.98243 270.01562 479.98242 C 153.68819 479.98242 60.029297 386.32675 60.029297 270.00586 C 60.029295 153.68497 153.68819 60.031249 270.01562 60.03125 z "
-       id="border" />
+       id="circle"
+       style="fill:currentcolor" />
   </g>
 </svg>

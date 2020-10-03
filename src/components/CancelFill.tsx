@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function SvgCircleCancel() {
+function SvgCancelFill() {
   return (
     <svg
       id="gz-svg-circle-cancel"
@@ -18,4 +18,4 @@ function SvgCircleCancel() {
   );
 }
 
-export default SvgCircleCancel;
+export default SvgCancelFill;
