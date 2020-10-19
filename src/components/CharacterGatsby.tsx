@@ -53,9 +53,6 @@ function SvgCharacterGatsby() {
       <path
         id="cape"
         fill="#665e39"
-        fillOpacity={1}
-        strokeLinejoin="round"
-        strokeWidth={60}
         d="M263.173 269.769h40.603l51.502 86.556s-30.897 30.868-62.13 33.336c-31.233 2.468-60.773-17.6-60.773-17.6z"
       />
       <g id="lower-body">
