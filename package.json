@@ -17,10 +17,10 @@
   "dependencies": {},
   "devDependencies": {
     "@svgr/cli": "^5.4.0",
-    "@types/react": "^16.9.49",
-    "typescript": "^4.0.3"
+    "@types/react": "^16.9.56",
+    "typescript": "^4.0.5"
   },
   "peerDependencies": {
-    "react": "^16.13.1"
+    "react": "^17.0.1"
   }
 }
