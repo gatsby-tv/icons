@@ -1,6 +1,8 @@
 export { default as CancelFill } from './CancelFill'
 export { default as Cancel } from './Cancel'
 export { default as CharacterGatsby } from './CharacterGatsby'
+export { default as CheckmarkFill } from './CheckmarkFill'
+export { default as Checkmark } from './Checkmark'
 export { default as Compress } from './Compress'
 export { default as Donate } from './Donate'
 export { default as DownTick } from './DownTick'
