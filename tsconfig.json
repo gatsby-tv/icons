@@ -14,5 +14,5 @@
     "esModuleInterop": true,
     "skipLibCheck": true
   },
-  "files": ["index.tsx"]
+  "files": ["index.ts"]
 }

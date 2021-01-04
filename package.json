@@ -12,7 +12,7 @@
   },
   "scripts": {
     "compile": "svgr -d src/components icons",
-    "build": "rm -rf dist && tsc -p ."
+    "build": "tsc -p ."
   },
   "dependencies": {},
   "devDependencies": {
