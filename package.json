@@ -11,8 +11,9 @@
     "url": "https://github.com/gatsby-tv/icons.git"
   },
   "scripts": {
-    "compile": "svgr -d src/components icons",
-    "build": "tsc -p ."
+    "build:svg": "svgr -d src/components icons",
+    "build:tsc": "tsc -p .",
+    "build": "yarn run build:svg && yarn run build:tsc"
   },
   "dependencies": {},
   "devDependencies": {

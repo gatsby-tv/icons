@@ -12,7 +12,7 @@ function SvgPrevious() {
       <path
         id="previous"
         fill="currentcolor"
-        d="M540 0v540L72.346 270zM72.346 270v270H0V0h72.346z"
+        d="M540 21.895v496.21L110.269 270zm-448.11 0v496.21H0V21.895z"
       />
     </svg>
   );

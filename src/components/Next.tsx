@@ -12,7 +12,7 @@ function SvgNext() {
       <path
         id="next"
         fill="currentcolor"
-        d="M0 0v540l467.654-270L0 0zm467.654 270v270H540V0h-72.346v270z"
+        d="M0 21.895v496.21L429.731 270zm448.11 0v496.21H540V21.895z"
       />
     </svg>
   );

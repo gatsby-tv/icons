@@ -32,13 +32,14 @@
   <defs
      id="defs1702" />
   <sodipodi:namedview
+     showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:object-nodes="true"
+     inkscape:object-nodes="false"
      inkscape:snap-center="true"
-     inkscape:snap-intersection-paths="true"
+     inkscape:snap-intersection-paths="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-midpoints="true"
+     inkscape:snap-midpoints="false"
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -48,8 +49,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1900"
-     inkscape:window-height="1044"
+     inkscape:window-width="1904"
+     inkscape:window-height="1048"
      id="namedview1700"
      showgrid="false"
      inkscape:snap-bbox="true"
@@ -57,9 +58,9 @@
      inkscape:bbox-paths="true"
      showguides="false"
      inkscape:snap-page="true"
-     inkscape:zoom="0.78306553"
-     inkscape:cx="324.29946"
-     inkscape:cy="400.73165"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="295.99208"
+     inkscape:cy="291.83579"
      inkscape:window-x="1928"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -67,6 +68,6 @@
      inkscape:snap-bbox-edge-midpoints="false" />
   <path
      style="fill:currentcolor"
-     d="M 0 0 L 0 540 L 467.6543 270 L 0 0 z M 467.6543 270 L 467.6543 540 L 540 540 L 540 0 L 467.6543 0 L 467.6543 270 z "
+     d="M 0,21.894951 V 518.10505 L 429.73109,269.99999 Z m 448.10924,0 V 518.10505 H 540 V 21.894951 Z"
      id="next" />
 </svg>
