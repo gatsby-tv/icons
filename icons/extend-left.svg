@@ -25,9 +25,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="gz-svg-extend-left"
      inkscape:document-units="px"
-     inkscape:cy="380.65981"
-     inkscape:cx="245.2302"
-     inkscape:zoom="0.7"
+     inkscape:cy="309.86629"
+     inkscape:cx="363.99688"
+     inkscape:zoom="0.47103918"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -37,8 +37,8 @@
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-page="true"
-     inkscape:window-width="1900"
-     inkscape:window-height="1044"
+     inkscape:window-width="1904"
+     inkscape:window-height="1048"
      inkscape:window-x="1928"
      inkscape:window-y="24"
      inkscape:window-maximized="0" />
@@ -57,5 +57,5 @@
   <path
      style="fill:currentcolor"
      id="extend-left"
-     d="M 101.44872,269.8684 371.31712,-2.0528755e-5 438.275,66.957874 235.37102,269.86187 438.55128,473.04211 371.59341,540 168.41314,336.81975 l -0.006,0.006 z" />
+     d="M 66,269.8684 335.8684,-2.0528755e-5 402.82628,66.957874 199.9223,269.86187 403.10256,473.04211 336.14469,540 132.96442,336.81975 l -0.006,0.006 z" />
 </svg>
